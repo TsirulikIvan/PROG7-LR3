@@ -1,0 +1,6 @@
+[project]
+name = lektor_test
+
+[servers.ghdeploy]
+name = Prod
+target = ghpages+https://tsirulikivan:afc96104e687e7f7d697881c9d68e4b02b7df1d1@/lektor_test
